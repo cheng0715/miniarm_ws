@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/qrobot/miniarm_ws/install/setup.sh

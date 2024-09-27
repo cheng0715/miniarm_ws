@@ -1,0 +1,2 @@
+miniarm_test
+-DCATKIN_DEVEL_PREFIX=/home/qrobot/miniarm_ws/devel -DCMAKE_INSTALL_PREFIX=/home/qrobot/miniarm_ws/install -G Unix Makefiles

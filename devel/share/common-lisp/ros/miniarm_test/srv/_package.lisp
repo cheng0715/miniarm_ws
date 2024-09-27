@@ -1,0 +1,15 @@
+(cl:defpackage miniarm_test-srv
+  (:use )
+  (:export
+   "MOVEARM"
+   "<MOVEARM-REQUEST>"
+   "MOVEARM-REQUEST"
+   "<MOVEARM-RESPONSE>"
+   "MOVEARM-RESPONSE"
+   "SERVOCONTROL"
+   "<SERVOCONTROL-REQUEST>"
+   "SERVOCONTROL-REQUEST"
+   "<SERVOCONTROL-RESPONSE>"
+   "SERVOCONTROL-RESPONSE"
+  ))
+

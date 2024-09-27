@@ -1,0 +1,8 @@
+prefix=/home/qrobot/miniarm_ws/install
+
+Name: miniarm_test
+Description: Description of miniarm_test
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime roscpp rospy serial std_msgs

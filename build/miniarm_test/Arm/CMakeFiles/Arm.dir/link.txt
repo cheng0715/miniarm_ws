@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/qrobot/miniarm_ws/devel/lib/libArm.a  CMakeFiles/Arm.dir/Arm.cpp.o
+/usr/bin/ranlib /home/qrobot/miniarm_ws/devel/lib/libArm.a
